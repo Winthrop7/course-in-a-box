@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## Create a Learning Community that Fasts
 
 Online courses often feel large, intimidating and anonymous. It's hard to feel invested
 in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
